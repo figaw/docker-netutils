@@ -8,3 +8,8 @@ without doing any dependency scanning or
 other verification of.
 
 Should probably have thought about that..
+
+## Tools
+
+- nslookup (dnsutils)
+- nmap
